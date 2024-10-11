@@ -70,7 +70,7 @@ Algunos datos sobre mi:
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RafaelFAPROGRA&theme=dark&show_icons=true" alt="Rafael Farfan Github Stats"></img></center>
+  <img src="https://github-readme-stats.vercel.app/api?username=RafaelFA-data&theme=dark&show_icons=true" alt="Rafael Farfan Github Stats"></img></center>
 
 
 <br />
